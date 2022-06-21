@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bf98165f0a641046809ae89befbdff7, type: 3}
+  m_Name: Jungle
+  m_EditorClassIdentifier: 
+  commonCards:
+  - {fileID: 21300000, guid: be9b834d21e870e4dbc84b51acfdc90c, type: 3}
+  - {fileID: 21300000, guid: cf43e69052aeb9043b13b7f854536d3a, type: 3}
+  - {fileID: 21300000, guid: 0e2da4c1a3e01de4db063a8c9880bb12, type: 3}
+  - {fileID: 21300000, guid: 86b2b05c9d25fff47b7ad4219909a320, type: 3}
+  - {fileID: 21300000, guid: 632e97188eb1aa741b19d61f82d91e78, type: 3}
+  - {fileID: 21300000, guid: 8535453042096264fa8909ded16cbeeb, type: 3}
+  - {fileID: 21300000, guid: 1a71da9c7c662f04f814918e4a3405fa, type: 3}
+  - {fileID: 21300000, guid: 5f08b151631b7884cbb77455ad5c0ec7, type: 3}
+  - {fileID: 21300000, guid: 311ad139c0d50554dbceea346a824ce2, type: 3}
+  - {fileID: 21300000, guid: 0cd8f594014b5d3499b36b18557e4339, type: 3}
+  - {fileID: 21300000, guid: 67cd9b630856d44428c1e9c902978436, type: 3}
+  - {fileID: 21300000, guid: 2d2115ab53ccaf049aa20c1170595ee0, type: 3}
+  - {fileID: 21300000, guid: c503a24b4c539904d802da05ea19c6b7, type: 3}
+  - {fileID: 21300000, guid: ff3368ca7ec4dae41b26669c9e3670e5, type: 3}
+  - {fileID: 21300000, guid: 64d32f5e7bdaed340ae7c248491e947f, type: 3}
+  - {fileID: 21300000, guid: 0fead57fd8f0b854ba8c9fb848284bb9, type: 3}
+  - {fileID: 21300000, guid: 84ce14a1fcec07f428aa0127e50a5075, type: 3}
+  energyCards: []
+  unCommonCards:
+  - {fileID: 21300000, guid: 95166126e1d0fad4b948da72f814aff7, type: 3}
+  - {fileID: 21300000, guid: 2095398b44f9e3b4cb74ddfa592cd488, type: 3}
+  - {fileID: 21300000, guid: 746f85293ba52d04698d35deb06bde67, type: 3}
+  - {fileID: 21300000, guid: 905fb14d3df71d14688f0342adaa0643, type: 3}
+  - {fileID: 21300000, guid: c2a2dd50ca9c0a446b12d653313db046, type: 3}
+  - {fileID: 21300000, guid: 2cfe7f3dabedcea4695ab61e94fd3426, type: 3}
+  - {fileID: 21300000, guid: ba8b9a788d18a254fa8295803fb60a9b, type: 3}
+  - {fileID: 21300000, guid: 3bcfcebd5125c87409fa5ca178360b3d, type: 3}
+  - {fileID: 21300000, guid: 42db8a16ebc625343a88a0532c8b147d, type: 3}
+  - {fileID: 21300000, guid: 7259347f603b7664aa9b664b40e799ec, type: 3}
+  - {fileID: 21300000, guid: 12bcd43119e071b4aaea112ee268cb0c, type: 3}
+  - {fileID: 21300000, guid: c0a4ae7bed65fc34f975eed28b13f1e8, type: 3}
+  - {fileID: 21300000, guid: bd53352c3f62ee3478bc5e8c997859f5, type: 3}
+  - {fileID: 21300000, guid: 86a1eb7ed68c4454aafb8ff96c6c0070, type: 3}
+  - {fileID: 21300000, guid: 27379fd78250da245a9242ba3b8a5a85, type: 3}
+  rareCards:
+  - {fileID: 21300000, guid: ac950d6482029494e8126db6b05d421a, type: 3}
+  - {fileID: 21300000, guid: c15679d2a36feea40b39ab014f91b8f1, type: 3}
+  - {fileID: 21300000, guid: 5d0cc5d35b805ae4889ad17f5c26d079, type: 3}
+  - {fileID: 21300000, guid: 9fe9115623b939e45a7458169976ddfa, type: 3}
+  - {fileID: 21300000, guid: 68826645842cd8c45824d192e9149bc3, type: 3}
+  - {fileID: 21300000, guid: 1845b345ccff63c4481fa5d3931d196c, type: 3}
+  - {fileID: 21300000, guid: 2694fca227605644ea5392c54c716d2f, type: 3}
+  - {fileID: 21300000, guid: 29b6a6ea06ec97b489b883eaa6843483, type: 3}
+  - {fileID: 21300000, guid: 2d12585709d1cbf4d938199318d1fee7, type: 3}
+  - {fileID: 21300000, guid: 66d74b4b73bb0b040bc1c7dd06657632, type: 3}
+  - {fileID: 21300000, guid: df0ed38c40fb6a94991f4514ae6612d8, type: 3}
+  - {fileID: 21300000, guid: 74ff204beaae9b245b45c75f9c9eac31, type: 3}
+  - {fileID: 21300000, guid: 3fa734f14d48c3f419074b0be26d0ef9, type: 3}
+  - {fileID: 21300000, guid: c8ebf454c43d2d641954fc80aa3d61dc, type: 3}
+  - {fileID: 21300000, guid: 691d5f7ccc025e049a1b629d81ad3384, type: 3}
+  - {fileID: 21300000, guid: 67781301cc6c61b428c9afd9f387a054, type: 3}
+  - {fileID: 21300000, guid: 5691ee9cb18498149a40818fc73185fd, type: 3}
+  holoRareCards:
+  - {fileID: 21300000, guid: ba241742c1aacf142bf351ceaa10035d, type: 3}
+  - {fileID: 21300000, guid: cdce307933637374ebcc8faeb40ebc9f, type: 3}
+  - {fileID: 21300000, guid: 2e283b1685ba698469f079e8ba3c6303, type: 3}
+  - {fileID: 21300000, guid: a5fbebbbf79e3874aa3adeef3d7f8559, type: 3}
+  - {fileID: 21300000, guid: 5d728f15d6a772e4fa9954ddf6654fc6, type: 3}
+  - {fileID: 21300000, guid: 80f4f754f3e499c4198cc96b03056f9e, type: 3}
+  - {fileID: 21300000, guid: f82a4edd0e7d9f448bf41b7e6bd1f92c, type: 3}
+  - {fileID: 21300000, guid: 529006e923de8eb45bb76e036547fc31, type: 3}
+  - {fileID: 21300000, guid: d1472e236a37c204184dd2eb11a04ca5, type: 3}
+  - {fileID: 21300000, guid: 16522c7ce4cee45468d569732e8b9c8f, type: 3}
+  - {fileID: 21300000, guid: 632d48664c0cc394e9bb48f5db87bdd4, type: 3}
+  - {fileID: 21300000, guid: db3e0206d8b54a542a24dec0c2bee342, type: 3}
+  - {fileID: 21300000, guid: 203bcf1cf729b214cbee7ee4fb85a3b6, type: 3}
+  - {fileID: 21300000, guid: 7ae5d969d2462ba4a997c49c23b22073, type: 3}
+  - {fileID: 21300000, guid: 2b820a812d04d234a944360a49cbc2d1, type: 3}
+  secretRareCards: []
+  boosterPackArt: {fileID: 0}
+  CardsInPack: 62
+  commonPerPack: 7
+  uncommonPerPack: 3
+  rarePerPack: 1
